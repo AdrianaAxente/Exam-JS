@@ -1,0 +1,14 @@
+#user-profile {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#user-profile img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+#user-profile p {
+    font-size: 1.2em;
+}
